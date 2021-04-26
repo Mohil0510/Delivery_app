@@ -33,7 +33,7 @@ class _LoginPageState extends State<LoginPage> {
               height: 40,
             ),
             Text(
-              'Welcome To Kahakanan',
+              'Welcome To Delivery App',
               textAlign: TextAlign.center,
               style: TextStyle(
                 letterSpacing: 1,
